@@ -36,3 +36,10 @@ As a claims adjuster, I want a comprehensive documentation section where I can c
 Acceptance criteria: Any comment made on the diagnostics, notes made or images uploaded are saved automatically. The speech-to-text option should function correctly while noting comments and taking notes, in addition to typing. All the information documented should appear without any inconsistency in the review section.
 
 **Refer screens 11 to 15 of the prototype.**
+
+
+## Priorities of User Stories
+
+User Story 1 has high effort and high impact. User Story 2 has low effort and high impact. User Story 3 has low effort and low impact. User Story 4 has high effort and high impact. User Story 5 has medium effort and medium impact. Using the MOSCOW method, user stories 1, 2 and 4 are ‘must haves’. Our application is dependent on these features being present. User story 5 is a ‘should have’ because the AI will be using the information documented to make the calculation. And user story 3 is a ‘could have’ because with this we are simply providing a better user experience.
+
+Considering both the Effort-Impact as well as the MOSCOW method, we can say that we should prioritize user story 2 first because it is low effort, high on impact and a must have. Next, we should prioritize user story 1 and 4 because although they are high on effort, they are also high on impact and must haves. Next in priority should be user story 5, it is a ‘should have’ and having medium impact and requiring medium effort. Last to prioritize is user story 3, it is a ‘could have’ and having low impact and requiring low effort.
