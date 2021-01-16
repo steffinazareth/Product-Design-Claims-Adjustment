@@ -15,8 +15,8 @@ Acme Inc. provides insurance services for fully automated, self driving trucks. 
 1. Wrote user stories and prioritized them by gauging effort and impact while considering the Moscow method.
 2. Designed a low-fidelity prototype for the mobile application by relying on UI/UX design principles.
 
-**Click [here]() to view the user stories.**
+**Click [here](UserStories.md) to view the user stories.**
 
-**Click [here]() to view the user stories.**
+**Click [here](Low Fidelity Prototype.pdf) to view the low fidelity prototype.**
 
 **Click [here]() to view the user stories.**
