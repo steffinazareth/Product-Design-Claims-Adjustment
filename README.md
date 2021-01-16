@@ -1,4 +1,4 @@
-# Product Design - ClaimsAdjustment
+# Product Design - Claims Adjustment
 
 ## Setup:
 Acme Inc. provides insurance services for fully automated, self driving trucks. For the purposes of this project, I assumed the role of a product manager for their upcoming application which their claims adjusters will use to note down details, take pictures etc. 
