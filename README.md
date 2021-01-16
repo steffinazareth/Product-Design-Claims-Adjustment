@@ -19,4 +19,4 @@ Acme Inc. provides insurance services for fully automated, self driving trucks. 
 
 **Click [here](Low_Fidelity_Prototype.pdf) to view the low fidelity prototype.**
 
-**Click [here]() to view the user stories.**
+**Click [here](NewApp_Announcement.md) to view the new app announcement.**
